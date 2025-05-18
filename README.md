@@ -2,6 +2,12 @@
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+## 📽 Preview
+
+[![Watch the demo](preview-thumbnail.png)](https://youtube.com/shorts/2Q5pj8eAtAg?feature=share)
+
+> Click the image above to watch a short demo.
+
 ## 📦 Tech Stack
 
 - React Native CLI
